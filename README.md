@@ -56,8 +56,8 @@ git clone https://github.com/yourusername/drone-fleet-management.git
 cd drone-fleet-management
 npm install
 
-
+```sh
 npm run dev
 
 
-Feel free to adjust the URLs and project details as needed.
+### Feel free to adjust the URLs and project details as needed.
