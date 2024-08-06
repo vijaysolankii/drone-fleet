@@ -2,6 +2,8 @@
 
 This is a simple React.js application for managing a fleet of drones, built using Vite. The app includes user authentication, a drone fleet overview, detailed drone views, and maintenance management.
 
+[Live Preview Link](https://suind.netlify.app/)
+
 ## Project Stack
 
 - **React.js**
